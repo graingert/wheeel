@@ -32,7 +32,7 @@ Issues = "https://github.com/graingert/wheeel/issues"
 Source = "https://github.com/graingert/wheeel"
 
 [project.scripts]
-wheel = "wheel.cli:main"
+wheeel = "wheel.cli:main"
 
 [tool.hatch.version]
 path = "wheeel/__about__.py"
